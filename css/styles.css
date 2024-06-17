@@ -195,6 +195,7 @@ a, a:active {
 }
 .feature-icon .icon {
     margin: 24px;
+    fill: #2E2F42;
 }
 
 /* LIST CONFIGURE */
@@ -336,3 +337,4 @@ a, a:active {
 .portfolio .card:hover .app-info {
     transform: translateY(0);
 }
+
